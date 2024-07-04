@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá! Eu sou fivemdetection 👋
 
-<!--
-**fivemdetection/fivemdetection** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim:
+- 🤖 Desenvolvedor de Bots com foco em JavaScript
+- 🛡️ Trabalho no desenvolvimento de bots para o software Sentinel
+- 💻 Entusiasta de tecnologia e automação
 
-Here are some ideas to get you started:
+### Habilidades Técnicas:
+- Programação em JavaScript e Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Áreas de Interesse:
+- Contribuição para projetos Open Source
+
